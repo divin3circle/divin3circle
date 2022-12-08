@@ -1,7 +1,7 @@
 [![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX31609797.jpg)](http://ww16.rishavchanda.io/?sub1=20221209-0059-435b-906d-66aee38def64)
 <h1 align="center">Hello 👋, I'm Sylus😁</h1>
 <h3 align="center">A Frontend Web🕸️Developer from Kenya🤩</h3>
-<img align="center" alt="Me😁" width="600" src=https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif>
+<img align="center" alt="Me😁" width="1024" src=https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divin3circle&label=Profile%20views&color=0e75b6&style=flat" alt="divin3circle" /> </p>
 
