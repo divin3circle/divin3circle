@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **🔰👨‍💻Software Engineering @ALX,**
 
-- 💬 Ask me about **😎Figma, CSS, HTML**
+- 💬 Portfolio Website: venusgaming.me
 
 - 📫Send me a mail😊@ **sylus.abel44@gmail.com**
 
