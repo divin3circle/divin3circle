@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **🔰👨‍💻Software Engineering @ALX,**
 
-- 💬 Portfolio Website: venusgaming.me
+- 💬 Portfolio Website: <a href="venusgaming.me">About Me</a>
 
 - 📫Send me a mail😊@ **sylus.abel44@gmail.com**
 
