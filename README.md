@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Engineering student at **Dedan Kimathi**
 
-- 🌱 I’m currently learning **Rust, Swift**
+- 🌱 I’m currently learning **C, Dart**
 
 - I’m currently working on [Inua DAO](https://github.com/divin3circle/INUA-DAO-HOME)
 
