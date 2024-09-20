@@ -4,11 +4,9 @@
 
 - 👨‍🎓 Engineering student at **Dedan Kimathi**
 
-- 🌱 I’m currently learning **C, Dart**
+- 🌱 I’m currently learning **C, GO**
 
-- I’m currently working on [Inua DAO](https://github.com/divin3circle/INUA-DAO-HOME)
-
-- 🤝 I’m looking for help with [Fantasy Manager](https://github.com/divin3circle/fanatsyManager)
+- I’m currently working on [Chama DAO](https://github.com/divin3circle/INUA-DAO-HOME)
 
 - 💬 Ask me about **react, TypeScript**
 
