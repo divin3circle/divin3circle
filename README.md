@@ -29,6 +29,7 @@
 # 🛠 Languages and Tools
 <p align="left"> 
 <img src="https://api.githubtrends.io/user/svg/divin3circle/langs?time_range=one_year&theme=dark" alt="languages" />
+<img src="https://api.githubtrends.io/user/svg/divin3circle/repos?time_range=one_year&theme=rosettes" alt="repos" />
 </p>
 
 # 📊 GitHub Stats:
