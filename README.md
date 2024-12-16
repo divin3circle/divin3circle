@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sylus</h1>
-<h3 align="center">A Mechanical Engineering⚙️👷‍♂️student👨‍🎓excited about tech integration👨‍💻in traditional engineering.</h3>
+<h3 align="center">An Engineer excited about tech integration in traditional engineering.</h3>
 
-- 👨‍🎓 Engineering student at **Dedan Kimathi**
+-  ⚙️👷‍♂️ Mechanical Engineering⚙️👷‍♂️
 
 - 🌱 I’m currently learning **C, GO**
 
