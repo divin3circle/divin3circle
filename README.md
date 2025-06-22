@@ -4,11 +4,11 @@
 
 -  ⚙️👷‍♂️ Mechanical Engineering⚙️👷‍♂️
 
-- 🌱 I’m currently learning **C, GO**
+- 🌱 I’m currently learning **Swift, GO**
 
 - I’m currently working on [Chama DAO](https://github.com/divin3circle/INUA-DAO-HOME)
 
-- 💬 Ask me about **react, TypeScript**
+- 💬 Ask me about **React, TypeScript**
 
 - 📫 How to reach me **sylusabel1@gmail.com**
 
