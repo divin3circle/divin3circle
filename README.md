@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️👷‍♂️ Mechanical Engineering⚙️👷‍♂️<br><br>🌱 I’m currently learning Swift, GO<br><br>I’m currently working on Chama DAO<br><br>💬 Ask me about React, TypeScript<br><br>📫 How to reach me sylusabel1@gmail.com
+⚙️👷‍♂️ Mechanical Engineering⚙️👷‍♂️<br><br>🌱 I’m currently learning Swift, GO<br><br>I’m currently working on DeFi dApps<br><br>💬 Ask me about React, TypeScript<br><br>📫 How to reach me sylusabel1@gmail.com
 
 
 ## 🌐 Socials:
