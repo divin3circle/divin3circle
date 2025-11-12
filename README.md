@@ -1,6 +1,8 @@
 # 💫 About Me:
 ⚙️👷‍♂️ Mechanical Engineering⚙️👷‍♂️<br><br>🌱 I’m currently learning Swift, GO<br><br>I’m currently working on DeFi dApps<br><br>💬 Ask me about React, TypeScript<br><br>📫 How to reach me sylusabel1@gmail.com
 
+docker run cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiM2MwMzg4YTAwMDdkMDZiMTA4MzYyMjk4N2E4NDJhYTMiLCJ0IjoiODk1Y2M3ZGQtNTU5MC00NDgwLWEyODEtOTI3ZDhkZTFmZDdiIiwicyI6Ik9UQTFaakl4WVdJdFpXWXdOQzAwT1dJeUxUZ3dZMlV0WTJFMU5XSmlORFE1WlRkayJ9
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sylus.abel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sylus.abel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silas-abel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20980853) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_sylus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sylusabel1@icloud.com) 
 
